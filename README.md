@@ -36,9 +36,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayoudev&show_icons=true&locale=en" alt="kayoudev" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayoudev&" alt="kayoudev" /></p>
-
 ## Experiences
 
 - Autor of the [documentation of ZetFar Bot](https://docs.zetfarbot.dev/)
@@ -46,3 +43,8 @@
 ## Quote
 
 #### ```"Un problème sans solution est un problème mal pausé..."```
+
+## Statistics
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayoudev&show_icons=true&locale=en" alt="kayoudev" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayoudev&" alt="kayoudev" /></p>
