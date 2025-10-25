@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Kayou</h1>
 
-## A passionate of development and video games
+## 🍃 A passionate of development and video games
 
 - 👀 I’m interested in **everything**
 
@@ -12,7 +12,7 @@
 <p align="left">
 </p>
 
-## Tools and Languages
+## 🫧 Tools and Languages
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
@@ -36,15 +36,17 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 </p>
 
-## Experiences
+## 🚀 Experiences
 
 - Autor of the [documentation of ZetFar Bot](https://docs.zetfarbot.dev/)
 
-## Quote
+## 📖 Quote
 
 #### ```"Un problème sans solution est un problème mal pausé..."```
 
-## Statistics
+## 📊 Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayoudev&show_icons=true&locale=en" alt="kayoudev" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayoudev&" alt="kayoudev" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kayoudev&card_width=400px&show_icons=true&theme=blueberry&rank_icon=github" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kayoudev&card_width=200&theme=blueberry" alt="GitHub Streak" /></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoudev&layout=compact&theme=blueberry" /></center></p>
+
