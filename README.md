@@ -36,10 +36,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 </p>
 
-## 🚀 Experiences
-
-- Autor of the [documentation of ZetFar Bot](https://docs.zetfarbot.dev/)
-
 ## 📖 Quote
 
 #### ```"Un problème sans solution est un problème mal pausé..."```
