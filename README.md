@@ -42,7 +42,7 @@
 
 ## 📊 Statistics
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kayoudev&card_width=400px&show_icons=true&theme=blueberry&rank_icon=github" />
+<p align="center">&nbsp;<img src="https://github-readme-stats-lac-two-b5dk4g7r5s.vercel.app/api?username=kayoudev&card_width=400&show_icons=true&theme=blueberry&rank_icon=github" />
 <img src="https://streak-stats.demolab.com?user=kayoudev&card_width=200&theme=blueberry" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoudev&layout=compact&theme=blueberry" /></center></p>
-
+<img src="https://github-readme-stats-lac-two-b5dk4g7r5s.vercel.app/api/top-langs/?username=kayoudev&layout=compact&theme=blueberry" />
+</p>
